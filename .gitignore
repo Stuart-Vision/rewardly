@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.exe
+.env
+.vercel
+*.tsbuildinfo
